@@ -99,6 +99,15 @@ bbr.sh
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
 ```
 
+### 如果上面的报错尝试使用这个
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/Sesprie/doubi/master/bbr2.sh && chmod +x bbr.sh && bash bbr.sh
+或者
+wget -N --no-check-certificate https://softs.fun/Bash/bbr.sh && chmod +x bbr.sh && bash bbr.sh
+```
+
+
+
 brook.sh
 ======
 
